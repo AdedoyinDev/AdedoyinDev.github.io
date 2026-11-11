@@ -1,31 +1,39 @@
-# Tiamiyu Rokeebat
+# TIAMIYU ROKEEBAT
 
+### Ideas. Ambition. Possibility.
 
-This website is a central home for professional interests, selected work, ventures, ideas and publications. It brings together interests in technology, cybersecurity, entrepreneurship, creativity and knowledge creation.
+I am interested in the intersection of technology, innovation, entrepreneurship and knowledge creation.
 
-## Website files
+My interests extend across cybersecurity, digital systems, creative thinking and building ideas into meaningful work.
 
-- `index.html` contains the page structure and written content.
-- `style.css` controls the visual design, layout and responsive behaviour.
-- `script.js` handles the mobile navigation, page year and subtle reveal effects.
+I believe in curiosity, continuous growth and the importance of creating things that contribute value beyond the moment.
 
-## Preview locally
+### Areas of Interest
 
-Open `index.html` in a web browser to preview the website.
+**Technology & Cybersecurity**
 
-## Publish with GitHub Pages
+Exploring technology, digital security, secure systems and the possibilities of innovation.
 
-1. Upload `index.html`, `style.css`, `script.js` and `README.md` to the repository root.
-2. Open repository Settings.
-3. Select Pages.
-4. Under Build and deployment, choose Deploy from a branch.
-5. Select the `main` branch and the `/(root)` folder.
-6. Save the settings and wait for deployment to finish.
+**Entrepreneurship**
 
-## Updating the website
+Developing ideas, building ventures and exploring opportunities that create meaningful value.
 
-Edit the relevant file, save the changes and commit them to the repository. GitHub Pages will publish the updated version after deployment completes.
+**Education & Knowledge**
 
-## Contact and work
+An interest in writing, educational publishing and making knowledge accessible through thoughtful creative work.
 
-GitHub: https://github.com/AdedoyinDev
+### Work & Projects
+
+I use this space to explore ideas, develop technical projects and document selected work.
+
+Explore my repositories to discover what I am building.
+
+### A Continuing Journey
+
+My interests and work will continue to evolve. This space represents an ongoing commitment to learning, creating and pursuing meaningful possibilities.
+
+---
+
+**TIAMIYU ROKEEBAT**
+
+Technology. Creativity. Purpose.
