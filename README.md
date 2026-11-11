@@ -1,6 +1,5 @@
 # Tiamiyu Rokeebat
 
-Personal website for Tiamiyu Rokeebat.
 
 This website is a central home for professional interests, selected work, ventures, ideas and publications. It brings together interests in technology, cybersecurity, entrepreneurship, creativity and knowledge creation.
 
